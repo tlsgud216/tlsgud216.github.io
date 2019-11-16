@@ -1,1 +1,1 @@
-# Django 프로젝트 생성
+# python설치
